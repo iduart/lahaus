@@ -1,4 +1,10 @@
-import { HamburgerMenuIcon, Logo, LogoMd, CaretDownIcon, NotificationIcon } from "../icons";
+import {
+  HamburgerMenuIcon,
+  Logo,
+  LogoMd,
+  CaretDownIcon,
+  NotificationIcon,
+} from "../icons";
 
 const Navbar = () => {
   return (
