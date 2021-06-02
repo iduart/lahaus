@@ -9,6 +9,7 @@ module.exports = {
       },
       backgroundColor: {
         brand: "#3ECFAF",
+        'ih-md-blue':'#EBEDFF'
       },
     },
   },

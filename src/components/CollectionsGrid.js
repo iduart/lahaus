@@ -27,7 +27,7 @@ const CollectionsGrid = () => {
       <div className="grid grid-cols-1 md:grid-cols-3 md:gap-x-8 gap-y-16">
         {collections.map((item) => (
           <div>
-            <div className="text-center relative h-48 rounded-lg bg-green-200">
+            <div className="text-center relative h-48 rounded-lg bg-ih-md-blue">
               <div className="grid grid-cols-4">
                 <div>
                   <img
