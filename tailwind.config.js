@@ -3,6 +3,12 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},
+    textColor: {
+      'jungle': '#012D26',
+    },
+    backgroundColor: {
+      'brand': '#3ECFAF',
+    }
   },
   variants: {
     extend: {},
