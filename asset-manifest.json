@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lahaus/static/css/main.d25d0c77.chunk.css",
+    "main.js": "/lahaus/static/js/main.8008359e.chunk.js",
+    "main.js.map": "/lahaus/static/js/main.8008359e.chunk.js.map",
+    "runtime-main.js": "/lahaus/static/js/runtime-main.b300fb29.js",
+    "runtime-main.js.map": "/lahaus/static/js/runtime-main.b300fb29.js.map",
+    "static/js/2.3d5fab3a.chunk.js": "/lahaus/static/js/2.3d5fab3a.chunk.js",
+    "static/js/2.3d5fab3a.chunk.js.map": "/lahaus/static/js/2.3d5fab3a.chunk.js.map",
+    "static/js/3.52375d20.chunk.js": "/lahaus/static/js/3.52375d20.chunk.js",
+    "static/js/3.52375d20.chunk.js.map": "/lahaus/static/js/3.52375d20.chunk.js.map",
+    "index.html": "/lahaus/index.html",
+    "static/css/main.d25d0c77.chunk.css.map": "/lahaus/static/css/main.d25d0c77.chunk.css.map",
+    "static/js/2.3d5fab3a.chunk.js.LICENSE.txt": "/lahaus/static/js/2.3d5fab3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b300fb29.js",
+    "static/js/2.3d5fab3a.chunk.js",
+    "static/css/main.d25d0c77.chunk.css",
+    "static/js/main.8008359e.chunk.js"
+  ]
+}
