@@ -9,7 +9,8 @@ module.exports = {
       },
       backgroundColor: {
         brand: "#3ECFAF",
-        'ih-md-blue':'#EBEDFF'
+        jungle: "#012D26",
+        "ih-md-blue": "#EBEDFF",
       },
     },
   },
